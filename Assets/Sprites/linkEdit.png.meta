@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 55a4e4cc3ea37224d948c5cb56e975a7
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: linkEdit_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 909
+        width: 92
+        height: 118
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: linkEdit_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 909
+        width: 91
+        height: 118
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 909
+        width: 93
+        height: 118
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 779
+        width: 87
+        height: 111
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 779
+        width: 87
+        height: 111
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 779
+        width: 88
+        height: 111
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 649
+        width: 93
+        height: 107
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 519
+        width: 88
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 519
+        width: 86
+        height: 112
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: linkEdit_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 519
+        width: 88
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 389
+        width: 93
+        height: 117
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 399
+        width: 92
+        height: 112
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: linkEdit_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 389
+        width: 92
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 389
+        width: 92
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 389
+        width: 93
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_15
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 389
+        width: 93
+        height: 117
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_16
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 399
+        width: 92
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_17
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 389
+        width: 92
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_18
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 389
+        width: 92
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_19
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 389
+        width: 93
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 259
+        width: 117
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 264
+        width: 96
+        height: 107
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: linkEdit_22
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 274
+        width: 98
+        height: 102
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: linkEdit_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 264
+        width: 97
+        height: 112
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: linkEdit_24
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 264
+        width: 102
+        height: 112
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: linkEdit_25
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 259
+        width: 117
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 259
+        width: 96
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_27
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 269
+        width: 93
+        height: 107
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_28
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 269
+        width: 96
+        height: 107
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_29
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 264
+        width: 102
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 139
+        width: 93
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 139
+        width: 92
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 139
+        width: 92
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_33
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 139
+        width: 92
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_34
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 139
+        width: 93
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_35
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 139
+        width: 93
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_36
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 139
+        width: 92
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_37
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 139
+        width: 92
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_38
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 134
+        width: 92
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_39
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 139
+        width: 93
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 102
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 97
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_42
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 4
+        width: 97
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_43
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 97
+        height: 111
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 117
+        height: 111
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_45
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 4
+        width: 102
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_46
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 4
+        width: 96
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_47
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 13
+        width: 98
+        height: 103
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_48
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 4
+        width: 97
+        height: 107
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: linkEdit_49
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 0
+        width: 117
+        height: 111
+      alignment: 7
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
